@@ -28,7 +28,7 @@ class RISEModule(RISEModuleIf):
         dt['s2'] = 'sensor'
         dt['s3'] = 'temp_humi'
         dt['s4'] = 'ok'
-        dt['s5'] = 'hello'
+        dt['s5'] = 'hello11'
         return dt
 
     def writeData(self, arg):
